@@ -1,0 +1,12 @@
+Error Analysis in Testsync
+ no of test =14
+ no of correct result = 5(435,736,2N4,2K4,33P)
+ no of wrong result = 7 (986,4TT,24B,2DJ,2HQ,2TN,2WN)
+ no of inconclusive result = 3(658,672,986)
+  
+ ACCURACY = (CORRECT RESULT/TOTAL RESULT)*100
+          = (5/14)*100
+          =35.714%
+ LIMITATION
+ -> THIS BASED CURRENTLY ONLY USE PRE-DEFINED DRUG DATASET FROM NIHMS\
+ -> SITLL TRY USE WITH ACTUAL DRUGS
